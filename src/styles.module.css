@@ -1,3 +1,21 @@
 .node {
 	
 }
+
+.slidervalue{
+	font-size:14px;
+	alignment-baseline:middle;
+}
+
+.bit {
+	stroke:black;
+	stroke-width:0.5;
+}
+
+.bit > .on {
+	fill:grey;
+}
+
+.bit > .off{
+	fill:white;
+}

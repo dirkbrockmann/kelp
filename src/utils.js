@@ -22,4 +22,7 @@ const dist = (a,b) => {
 	return Math.sqrt(dx*dx + dy*dy);
 }
 
-export {toArray,add_id_label,add_widget,get_variables,get_booleans,get_choices,deg2rad,rad2deg,dist}
+const d2l = function (x,y,n){ return y*n+x; };
+const l2d = function(i,n){ return [i % n, Math.floor(i/n)];}
+
+export {d2l,l2d,toArray,add_id_label,add_widget,get_variables,get_booleans,get_choices,deg2rad,rad2deg,dist}
