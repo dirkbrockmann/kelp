@@ -26,6 +26,6 @@ export default {
 		bit_size:12
 	},
 	simulation: {
-		delay:0
+		delay:10
 	}
 }

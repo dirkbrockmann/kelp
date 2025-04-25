@@ -153,6 +153,6 @@ export default (controls,grid)=>{
 }
 
 
-export {dens_slider,sliders,toggles,radios,go,reset,variables,booleans,choices,ct_panel}
+export {dens_slider,sliders,toggles,radios,go,reset,reset as setup,variables,booleans,choices,ct_panel}
 
 
