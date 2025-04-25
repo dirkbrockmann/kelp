@@ -4,7 +4,7 @@
   "subtitle": "A stochastic cellular automaton",
   "description": "This explorable illustrates a stockastic cellular automaton, a simple model that is able to generate fractal growth structures and a diverse set of patterns.",
   "author": "Dirk Brockmann (https://synosy.github.io)",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "license": "CC-BY-4.0",
   "repository": {
     "type": "git",
